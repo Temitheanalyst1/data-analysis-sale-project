@@ -40,3 +40,21 @@
 ## screenshot from powerBI
 <img width="2660" height="1352" alt="sales" src="https://github.com/user-attachments/assets/87677c75-901b-414e-8328-76f3b46b6486" />
 
+## Central Insights Summary
+### Categories: Technology leads in most years, Furniture is a strong second (briefly leading in 2016), and Office Supplies remains steady but less dominant.
+### Products: Phones (Tech) and Chairs (Furniture) are the top sellers, peaking in 2018 ($104.7k) and 2017 ($81.9k) respectively. Secondary products like Storage, Tables, and Machines provide consistent but smaller contributions.
+### Customers: Consumers are the main buyers (45–58%), Corporate clients contribute steadily (~26–34%), and Home Office buyers are a growing segment, peaking at 21.8% in 2018
+## Problem Statement
+Between 2015 and 2018, sales data shows fluctuating performance across product categories, customer segments, and product-level sales. While overall revenue grew steadily, management needs clarity on which categories and products are the consistent top performers, and how to increase sales volume and profitability in the most promising areas. in 2016 we saw a sharp drop in sales which was due to items sold more to consumers. 
+## Solutions & Recommendations
+### Double Down on Top Sellers: Prioritize Phones and Chairs, since they consistently drive the highest revenue.
+### Increase Margins through Bundling & Premium Options:
+Bundle Phones with accessories, warranties, or other electronics.
+Bundle Chairs with Desks and Storage for complete office/home office setups.
+### Segmented Marketing:
+Target Consumers with promotions and online campaigns.
+Offer bulk deals & service contracts to Corporate clients.
+Develop affordable ergonomic solutions for the Home Office market.
+#### Expand Profitable Niches: Launch eco-friendly furniture or exclusive phone upgrade programs to tap into premium buyers.
+
+
