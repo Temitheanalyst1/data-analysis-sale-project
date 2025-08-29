@@ -36,3 +36,5 @@
 🕒 Time-Based Trends 
 
 📈 What are the monthly/weekly sales trends?
+- <a href="https://github.com/Temitheanalyst1/data-analysis-sale-project/blob/main/%F0%9F%93%88%20Sales%20Performance%20portfolio.docx">contains sql queries fo KPI</a>
+
