@@ -37,4 +37,6 @@
 
 📈 What are the monthly/weekly sales trends?
 - <a href="https://github.com/Temitheanalyst1/data-analysis-sale-project/blob/main/%F0%9F%93%88%20Sales%20Performance%20portfolio.docx">contains sql queries fo KPI</a>
+## screenshot from powerBI
+<img width="2660" height="1352" alt="sales" src="https://github.com/user-attachments/assets/87677c75-901b-414e-8328-76f3b46b6486" />
 
