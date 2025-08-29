@@ -1,2 +1,2 @@
-# data-analysis-sale-project
-Analyzed sales data through cleaning, processing, and visualization to identify the root causes of low sales performance and recommended strategies for improvement.
+# Sales & Customer Insights Dashboard – Power BI & SQL Analysis”
+## Objective Identify top-performing products, analyze sales trends, and recommend strategies to improve sales.
